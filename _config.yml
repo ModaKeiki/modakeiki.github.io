@@ -20,8 +20,8 @@ defaults:
   values:
     layout: post
 lang: pt_BR
-description: ""
-baseurl: ""
+description: ''
+baseurl: ''
 url: http://modakeiki.github.io
 markdown: kramdown
 permalink: pretty
