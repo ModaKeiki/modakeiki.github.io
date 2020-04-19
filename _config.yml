@@ -1,5 +1,5 @@
 ---
-title: Modakeiki.Github.Io
+title: Moda Keiki
 timezone: America/Sao_Paulo
 collections:
   posts:
@@ -8,6 +8,25 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+lang: pt_BR
+description: ""
+baseurl: ""
+url: http://modakeiki.github.io
+markdown: kramdown
+permalink: pretty
+sass:
+  style: compressed
 plugins:
 - jekyll-feed
 exclude:
