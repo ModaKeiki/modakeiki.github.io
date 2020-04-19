@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Admiration Pains';
+    src: url('AdmirationPains.eot');
+    src: url('AdmirationPains.eot?#iefix') format('embedded-opentype'),
+        url('AdmirationPains.woff2') format('woff2'),
+        url('AdmirationPains.woff') format('woff'),
+        url('AdmirationPains.ttf') format('truetype'),
+        url('AdmirationPains.svg#AdmirationPains') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
